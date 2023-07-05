@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memorycarddef/static/css/main.952d043d.chunk.css",
+    "main.js": "/memorycarddef/static/js/main.de743538.chunk.js",
+    "main.js.map": "/memorycarddef/static/js/main.de743538.chunk.js.map",
+    "runtime-main.js": "/memorycarddef/static/js/runtime-main.225eedd2.js",
+    "runtime-main.js.map": "/memorycarddef/static/js/runtime-main.225eedd2.js.map",
+    "static/js/2.80d56d76.chunk.js": "/memorycarddef/static/js/2.80d56d76.chunk.js",
+    "static/js/2.80d56d76.chunk.js.map": "/memorycarddef/static/js/2.80d56d76.chunk.js.map",
+    "static/js/3.1fe5cd1e.chunk.js": "/memorycarddef/static/js/3.1fe5cd1e.chunk.js",
+    "static/js/3.1fe5cd1e.chunk.js.map": "/memorycarddef/static/js/3.1fe5cd1e.chunk.js.map",
+    "index.html": "/memorycarddef/index.html",
+    "static/css/main.952d043d.chunk.css.map": "/memorycarddef/static/css/main.952d043d.chunk.css.map",
+    "static/js/2.80d56d76.chunk.js.LICENSE.txt": "/memorycarddef/static/js/2.80d56d76.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/memorycarddef/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.225eedd2.js",
+    "static/js/2.80d56d76.chunk.js",
+    "static/css/main.952d043d.chunk.css",
+    "static/js/main.de743538.chunk.js"
+  ]
+}
